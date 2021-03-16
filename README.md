@@ -1,5 +1,6 @@
-# Meme-Generator
-🤡 Custom Meme Generator using React.js codes go here.
+# 🤡 Meme Generator
+
+<quote>Scrimba followed React.js course final project source codes go here</quote> 
 
 ### Deployed:
 https://memegenerator.woosal.com/
